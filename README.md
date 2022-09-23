@@ -37,7 +37,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## image
 
-(./Assets/password-generator.png)
+![alt text](./Assets/password-generator.png)
 
 ## Usage
 
